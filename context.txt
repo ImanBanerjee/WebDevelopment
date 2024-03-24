@@ -1,0 +1,3 @@
+Week 1
+Vid 1 - Installing VS Code & How Websites Work
+Vid 2 - First HTML website + 
