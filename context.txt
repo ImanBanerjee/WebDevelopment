@@ -1,3 +1,6 @@
 Week 1
 Vid 1 - Installing VS Code & How Websites Work
-Vid 2 - First HTML website + 
+Vid 2 - First HTML website 
+Vid 3 - HTML basic structures
+Vid 4 - Headings-Paragraphs-links
+Vid 5 - Image, Lists, and Tables
