@@ -1,0 +1,32 @@
+/* (.) is a class selector
+(#) is an id selector
+(*) is a universal selector
+(>) is a child selector
+(+) is an adjacent sibling selector
+(~) is a general sibling selector
+(,) is a group */
+body{
+    background: rgb(0, 255, 255);
+    color:black;
+}
+
+#container{
+    background: rgb(255, 0, 234);
+    color:white;
+}
+.heading{
+    background: blue;
+    color:white;
+}
+.para{
+    background: green;
+    color:white;
+}
+#idk{
+    background: yellow;
+    color:black;
+}
+.red{
+    background: red;
+    color:white;
+}
