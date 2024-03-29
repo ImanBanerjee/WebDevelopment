@@ -10,3 +10,4 @@ Vid 7 - Forms and input tags
 Week 2
 Vid 8 - Inline and block elements
 Vid 9 - Id and classes
+Vid 10 - Video audio & media
