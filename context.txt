@@ -11,3 +11,7 @@ Week 2
 Vid 8 - Inline and block elements
 Vid 9 - Id and classes
 Vid 10 - Video audio & media
+Vid 11 - Semantic Tags
+Vid 12 - Entities, Code tag and more
+CSS-
+Vid 13 - Introduction to CSS
