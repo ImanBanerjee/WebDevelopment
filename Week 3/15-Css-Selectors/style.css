@@ -1,0 +1,55 @@
+/* Element seletors */
+/* div {
+    color: white;
+    background: black;
+} */
+
+/* Class selectors */
+.Red{
+    background: red;
+}
+
+/* ID selectors */
+#green{
+    background: green;
+}
+
+/* Child selectors */
+/* only works on direct children */
+
+div>p{
+    background: black;
+    color:blue;
+}
+
+/* Descendant selectors */
+
+div p{
+    background: black;
+    color:blue;
+}
+
+/* Universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Pseudo selectors */
+a:visited{
+    color: red;
+}
+a:link{
+    color: green;
+}
+a:active{
+    color: blue;
+    background: red;
+}
+a:hover{
+    background: yellow;
+}
+p:first-child{
+    color: red;
+}

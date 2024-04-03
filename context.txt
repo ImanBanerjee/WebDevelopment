@@ -1,17 +1,22 @@
-HTML-
 Week 1
-Vid 1 - Installing VS Code & How Websites Work
-Vid 2 - First HTML website 
-Vid 3 - HTML basic structures
-Vid 4 - Headings-Paragraphs-links
-Vid 5 - Image, Lists, and Tables
-Vid 6 - SEO and Core Web Vitals
-Vid 7 - Forms and input tags
+	HTML-
+		Vid 1 - Installing VS Code & How Websites Work
+		Vid 2 - First HTML website 
+		Vid 3 - HTML basic structures
+		Vid 4 - Headings-Paragraphs-links
+		Vid 5 - Image, Lists, and Tables
+		Vid 6 - SEO and Core Web Vitals
+		Vid 7 - Forms and input tags
 Week 2
-Vid 8 - Inline and block elements
-Vid 9 - Id and classes
-Vid 10 - Video audio & media
-Vid 11 - Semantic Tags
-Vid 12 - Entities, Code tag and more
-CSS-
-Vid 13 - Introduction to CSS
+		Vid 8 - Inline and block elements
+		Vid 9 - Id and classes
+		Vid 10 - Video audio & media
+		Vid 11 - Semantic Tags
+		Vid 12 - Execise 1 - Pure HTML media player
+		Vid 13 - Entities, Code tag and more
+	CSS-
+		Vid 14 - Introduction to CSS
+		Vid 15 - Inline, Internal & External CSS
+Week 3
+		Vid 16 - EX 1 Solution
+		Vid 17 - CSS Selectors MasterClass
