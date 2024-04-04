@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Rubik+Scribble&display=swap');
+
+
+/* p{
+    background: black;  
+    color:white;
+    font-family: "Exo 2", Rubik Scribble, system-ui;
+    font-weight: 400;
+    font-style: italic;
+    text-decoration: overline;
+    font-size: 100px;
+    line-height: 3;
+    letter-spacing: 20px;
+} */
+h1{
+    text-align: center;
+    font-family: "Exo 2", Rubik Scribble, system-ui;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    /* text-decoration-style: dashed; */
+    text-decoration-thickness: 5px;
+    /* text-indent: 300px; */
+
+    
+}
+.lorem{
+    border:2px solid red;
+    width: 145px;
+    word-break: break-all;
+    /* text-overflow: ellipsis;
+    overflow: clip; */
+
+}
+/* https://www.codewithharry.com/tutorial/css-home/ */

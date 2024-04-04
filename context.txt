@@ -20,3 +20,6 @@ Week 2
 Week 3
 		Vid 16 - EX 1 Solution
 		Vid 17 - CSS Selectors MasterClass
+		Vid 18 - CSS Box Model - Margin, Padding & Borders
+		Vid 19 - CSS Fonts, Text & Color Properties
+		Vid 20 - Exercise 2 - CSS Challenge
