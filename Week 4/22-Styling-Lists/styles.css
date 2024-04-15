@@ -1,0 +1,24 @@
+/* nav ul li{
+    list-style: bengali;
+    list-style-type: "🤷";
+    list-style-position: inside;
+    background: black;
+    color:white;
+    border: 2px solid white;
+    list-style-image: url('https://cdn.dribbble.com/users/2985218/screenshots/11007223/media/8aa92a8c7b96f2ddeef9e824b9349837.gif');
+} */
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style:none;
+    padding:25px;
+    background-color: black;
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    margin: 0 10px;
+    border-radius: 20px;
+    /* outline: 2px solid red; */
+}

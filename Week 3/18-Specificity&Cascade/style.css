@@ -1,0 +1,30 @@
+h1{
+    color:aqua
+}
+.yllow{
+    color:yellow
+}
+.cred{
+    color:red
+}
+.curple{
+    color:purple
+}
+
+[x=a]{
+    background: blue;
+}
+p{
+    background: yellow !important; /* The !important rule is a way to make your CSS cascade but also have the rules you feel are most crucial always be applied. A rule that has the !important property will always be applied no matter where that rule appears in the CSS document. */
+}
+
+/* Specificity algorithm is a method to determine, which CSS rule will be applied by the browser. It is a process of assigning a weight to a CSS rule. The weight is based on the number of ID selectors, class selectors, and HTML tag selectors used in the CSS rule. The rule with higher weight will be applied by the browser. */
+/* ID selector has the highest weight */
+/* Class selector has a higher weight than the HTML tag selector */
+/* The universal selector (*) has no weight */
+/* The descendant selector has no weight */
+/* The child selector has no weight */
+/* The adjacent sibling selector has no weight */
+
+
+/* The !important rule is a way to make your CSS cascade but also have the rules you feel are most crucial always be applied. A rule that has the !important property will always be applied no matter where that rule appears in the CSS document. */

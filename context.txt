@@ -23,3 +23,12 @@ Week 3
 		Vid 18 - CSS Box Model - Margin, Padding & Borders
 		Vid 19 - CSS Fonts, Text & Color Properties
 		Vid 20 - Exercise 2 - CSS Challenge
+		Vid 21 - CSS Specificity & Cascade
+		Vid 22 - CSS Sizing Units - px, rem, em, vh, vw, % & more
+		Vid 23 - CSS Display Property
+		Vid 24 - CSS Shadows and Outlines
+Week 4
+		Vid 25 - Styling Lists using CSS
+		Vid 26 - CSS Overflow Property
+		Vid 27 - Ex2 solution
+		Vid 28 - CSS Position Property

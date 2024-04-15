@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+/* html is a root element and rem is relative to the root element. */
+html{
+    font-size: 10px;
+    /* 1rem is equal to 10px */
+
+}
+
+.box{
+    box-sizing: border-box;
+    border:2px solid black;
+    width: 80vw;
+    height: 10vh;
+    margin:auto;
+    background: aqua;
+
+}
+.container{
+    box-sizing: border-box;
+    border:2px solid black;
+    width: 80vw;
+    /* vw is a relative unit of measurement that stands for "viewport width". It is equal to 1% of the width of the viewport. */
+    /* vh is a relative unit of measurement that stands for "viewport height". It is equal to 1% of the height of the viewport. */
+    /* height: 80vh; */
+    min-height: 80vh;
+    margin: 23px auto;
+    font-size: 18px; /* if we set font-size in a selector then CSS specificty will be applied and it will override the root element. */
+    background: aqua;   
+}
+
+.container p{
+    font-size: 1em; /* 2em will be 20px because main element is influenced by the root element. */
+    border: 2px solid red;
+    width:50%;
+    /* em is relative to the font-size of the element itself and it is used to set the font-size of the element. font size of the element is 30px so 1.2em is 36px. */
+}
+
+.container p{
+    border: 2px solid green;
+    width: 50%;
+}
+
+.remm{
+    font-size: 1rem;
+    /* rem is relative to the root element and it is used to set the font-size of the element. font size of the root element is 10px so 1.2rem is 12px. */
+}
+
+.mycont{
+    box-sizing: border-box;
+    background: red;
+    border: 2px solid black;
+    color:white;
+    font-size: 22px;
+    /* width: 100vmax; */
+    width: 80vw;
+    margin: 23px auto;
+}
+/* vmin and vmax are relative units of measurement that stands for "viewport minimum" and "viewport maximum" respectively. vmin is equal to the smaller of the two values: vw and vh. vmax is equal to the larger of the two values: vw and vh. */
+
+/* For more units check: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units */
+
+.other{
+    box-sizing: border-box;
+    border: 2px solid black;
+    min-height: 40vh;
+    margin: 23px auto;
+    width: 80vw;
+    background: aqua;
+    color: black;
+    font-size: 16px;
+}
+
+.other > div{
+    border: 2px solid red;
+    width: 50%;
+}
+
+.other > div > div{
+    border: 2px solid green;
+    width: 50%;
+}
+
+/* % size unit is used to set the font-size of the element. font size of the root element is 10px so 1.2% is 12px. */ 

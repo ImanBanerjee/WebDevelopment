@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.box{
+    border: 2px solid rgb(255, 255, 255);
+    height: 433px;
+    width: 80vw;
+    margin: 3px;
+    padding: 3px;
+}
+
+.box1{
+    background: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    /* position: sticky;
+    top: 0px;
+    z-index: 5;
+    margin: 0px;
+    height: 100px;
+    padding: 0px; */
+
+    
+}
+.box2{
+    background: blue;
+    /* position: relative;
+    top: 4vh;
+    left: 10vw;
+    z-index: 2; */
+
+}
+.box3{
+    background: green;
+    position: relative;
+    z-index: 3;
+}
+.box4{
+    background: yellow;
+    position: fixed;
+    bottom: 0px;
+    left: 8vw;
+    height: 111px;
+    z-index: 4;
+}
+.box5{
+    background: orange;
+}
+
+.parent{
+    margin: 43px;
+    padding: 34px;
+    border:2px solid white;
+    /* position: absolute; */
+    filter: invert();
+
+    /* transform, filter or perspective can also make an element show as positioned */
+}
+
+/* zindex is a value that is used to control the stacking order of elements on a webpage. The higher the z-index value, the higher the element will be stacked on top of other elements. In this case, the z-index value is not necessary because the elements are already stacked in the correct order based on their position in the HTML code. Removing the z-index property will not affect the layout of the webpage. */

@@ -1,0 +1,11 @@
+.container{
+    width: 30vw;
+    height: 40vh;
+    border: 2px solid black;
+    /* overflow: auto; This will add a scrollbar to the container */
+    white-space: nowrap; /* This will prevent the text from wrapping */
+    /* overflow-y: auto;
+    overflow-x: scroll; */
+    overflow: scroll scroll;
+    text-overflow: ellipsis ;
+}

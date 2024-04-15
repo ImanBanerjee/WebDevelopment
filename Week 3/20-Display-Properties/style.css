@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+
+}
+.box{
+    border: 2px solid #000000;
+    display: inline-block; 
+    /* inline-block is similar to inline but it allows to set width and height and margin and other div properties */
+    width: 300px;
+    /* display:inline makes width ineffective */
+    padding: 40px;
+    margin: 20px;
+
+}
+
+    /* display: none; (it makes the box invisible and removes the space too)  */
+    /* visibility: hidden; ( it makes the box invisible but the space is still there) */
+    /* display:flex; makes the box visible and the space is still there */
+    /* justify-content: center;it aligns the content in the center */
+    /* inline-flex is similar to inline-block but it allows to set the width and height and margin and other div properties */
+    
+.box1{
+    display: inline-flex;
+    justify-content: center;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/display */
